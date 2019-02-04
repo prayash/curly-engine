@@ -1,4 +1,5 @@
-# Redirect default Netlifysubdomaintoprimarydomain
+/blog        https://prayash.io/blog
+# Redirect defaultNetlifysubdomaintoprimarydomain
 http://prayash-url-engine.netlify.com/*http://praya.sh/:splat301!
 
 #Redirects
@@ -16,5 +17,5 @@ http://prayash-url-engine.netlify.com/*http://praya.sh/:splat301!
 /youtube     https://www.youtube.com/user/iameffulgence
 
 
-# Global wildcard to redirect to actualsite
+# Global wildcard to redirect toactualsite
 /*           https://prayash.io
