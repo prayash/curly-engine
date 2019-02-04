@@ -1,15 +1,20 @@
-/cli         https://example.com/from-cli
-
-# Redirect default Netlify subdomaintoprimarydomain
+# Redirect default Netlifysubdomaintoprimarydomain
 http://prayash-url-engine.netlify.com/*http://praya.sh/:splat301!
 
 #Redirects
 
-/git         https://github.com/prayash
+/tweets      https://twitter.com/_prayash
 /twitter     https://twitter.com/_prayash
-/instagram   https://instagram.com/prayash.io
+
+/git         https://github.com/prayash
+/github      https://github.com/prayash
+
 /insta       https://instagram.com/prayash.io
+/instagram   https://instagram.com/prayash.io
+
+/videos      https://www.youtube.com/user/iameffulgence
 /youtube     https://www.youtube.com/user/iameffulgence
 
 
+# Global wildcard to redirect to actualsite
 /*           https://prayash.io
