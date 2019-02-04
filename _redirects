@@ -1,11 +1,13 @@
-# Redirect default Netlify subdomain to primary domain
-http://prayash-url-engine.netlify.com/* http://praya.sh/:splat 301!
+# Redirect default Netlify subdomain to primarydomain
+http://prayash-url-engine.netlify.com/* http://praya.sh/:splat301!
+
+#Redirects
+
+/git         https://github.com/prayash
+/twitter     https://twitter.com/_prayash
+/instagram   https://instagram.com/prayash.io
+/insta       https://instagram.com/prayash.io
+/youtube     https://www.youtube.com/user/iameffulgence
 
 
-/git            https://github.com/prayash
-/twitter        https://twitter.com/_prayash
-/insta          https://instagram.com/prayash.io
-/youtube        https://www.youtube.com/user/iameffulgence
-
-
-/*              https://prayash.io
+/*           https://prayash.io
