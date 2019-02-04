@@ -1,0 +1,24 @@
+{
+  "name": "curly-engine",
+  "version": "1.0.0",
+  "baseUrl": "https://praya.sh",
+  "description": "URL Shortener @ http://praya.sh",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prayash/curly-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prayash/curly-engine/issues"
+  },
+  "homepage": "https://github.com/prayash/curly-engine#readme",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.3"
+  }
+}
