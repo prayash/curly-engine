@@ -1,5 +1,6 @@
-# Redirect default Netlify subdomain to primarydomain
-http://prayash-url-engine.netlify.com/* http://praya.sh/:splat301!
+/cli         https://example.com/from-cli
+# Redirect default Netlify subdomain toprimarydomain
+http://prayash-url-engine.netlify.com/*http://praya.sh/:splat301!
 
 #Redirects
 
