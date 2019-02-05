@@ -17,8 +17,10 @@
 /videos      https://www.youtube.com/user/iameffulgence
 /youtube     https://www.youtube.com/user/iameffulgence
 
-# Redirect default Netlify subdomain to primarydomain
-https://prayash-url-engine.netlify.com/* https://praya.sh/:splat301!
+/poot        https://www.flickr.com/photos/viget/6941496758/in/photolist-bzoZ9A-fkxFAL-fkxFtu-9zKDRY-fkiwvv-gxr2vT-oUA6V3-oC8iud-47QCHu-fkix8H-itgSkL-gxq2c9-fkxEzj-9zam5S-ithfdL-jsuwpY-os6wC8-ithpos-gHMnnZ-5T3f31-bpzX1T-oDVmT2-nxdxZr-doQC1Z-oJy1BG-efxn2J-efqYNX-efxn6Q-ithqJT-doRNrK-5T3eAE-cTspRW-6hvErU-gxqDVm-bzoYu5-efxory-2PZqvV-8kLqA5-c9YW5m-efrD8D-6RZ8Xh-dB3XMU-6RV5ev-6RV5Lv-5SXUJg-5FUakk-72BZNk-5T3eKd-33ASmz-6RZ8kw
 
-# Global wildcard toredirecttoactualsite
+# Redirect default Netlify subdomain toprimarydomain
+https://prayash-url-engine.netlify.com/*https://praya.sh/:splat301!
+
+# Global wildcardtoredirecttoactualsite
 /*           https://prayash.io
