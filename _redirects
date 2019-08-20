@@ -21,6 +21,10 @@
 
 /earthmoves https://apps.apple.com/us/app/earth-moves-waterfall/id1468018375
 
+/ar-unity   https://www.viget.com/articles/cross-platform-ar-with-unity/
+/arkit-img  https://www.viget.com/articles/using-arkit-and-image-tracking/
+/webvr      https://www.viget.com/articles/creating-your-first-webvr-app/
+
 # Redirect default Netlify subdomain toprimarydomain
 https://prayash-url-engine.netlify.com/*https://praya.sh/:splat301!
 
